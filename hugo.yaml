@@ -1,4 +1,4 @@
-baseURL: 'https://capstone.uwtron.xyz'
+baseURL: 'https://capstone.uwtron.xyz/'
 title: TailBliss
 languageCode: en-us
 DefaultContentLanguage: en
@@ -196,7 +196,7 @@ privacy:
     disable: false
   googleAnalytics:
     anonymizeIP: true
-    disable: false
+    disable: true
     respectDoNotTrack: false
     useSessionStorage: false
   instagram:
