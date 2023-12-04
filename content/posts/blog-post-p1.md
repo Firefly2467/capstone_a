@@ -13,7 +13,7 @@ categories: Blog
 tags: Blog
 ---
 ## Forming the team, and thinking about the big picture
-### Posted 2023-09-12 | Next Post: [Searching for Problems...](https://posturemax.uwtron.xyz/posts/problem_search/ "Second blog post, details the process used for finding our project goals")
+#### Posted 2023-09-12 | Next Post: [Searching for Problems...](https://posturemax.uwtron.xyz/posts/problem_search/ "Second blog post, details the process used for finding our project goals")
 
 Without a concrete idea in mind for our capstone project, it was important to build a team that could tackle any challenge! Having a mix of software, electrical and mechanical experience would set the team up for success, but more importantly, each member would have to get along with one another, trust in each other, and share a common vision for the direction of the project.
 

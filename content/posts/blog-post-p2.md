@@ -13,7 +13,7 @@ categories: Blog
 tags: Blog
 ---
 ## How to find problems? It's not easy!
-### Posted 2023-09-19 | Previous Post: [Forming the team!](https://posturemax.uwtron.xyz/posts/forming_the_team/ "First blog post, and team formation") | Next Post: [Evaluating Expert Feedback and Market Solutions](https://posturemax.uwtron.xyz/posts/market_and_expert/ "Thrid blog post, we discuss key aspects of our problem with an expert and evaluate existing products")
+#### Posted 2023-09-19 | Previous Post: [Forming the team!](https://posturemax.uwtron.xyz/posts/forming_the_team/ "First blog post, and team formation") | Next Post: [Evaluating Expert Feedback and Market Solutions](https://posturemax.uwtron.xyz/posts/market_and_expert/ "Thrid blog post, we discuss key aspects of our problem with an expert and evaluate existing products")
 
 Every project starts with a planning phase, and engineering design is no different. Often the way we structure brainstorming sessions has a large influence in the ideas that we generate, therefore keeping true to form was key in making sure we found success.
 
@@ -25,9 +25,9 @@ Searching the web, collecting a list of news articles and taking notes during ou
 
 Among our top three problems identified, were back-pain experienced from bad posture, improving humain-UAV control ergonomics/reliability and remote-area surveillance for search and rescue operations. From these three options, we would need dive even deeper, and create industry connections to expand our technical background into each of these subjects, before moving forward.
 
-![b1]( ../assets/images/posts/b1.png "Posture Corrector")
+![b1]( https://posturemax.uwtron.xyz/assets/images/posts/b1.png "Posture Corrector")
 
-![b2]( ../assets/images/posts/b2.png "Remote Area Surveillance")
+![b2]( https://posturemax.uwtron.xyz/assets/images/posts/b2.png "Remote Area Surveillance")
 
-![b3]( ../assets/images/posts/b3.png "Robot Control Ergonomics")
+![b3]( https://posturemax.uwtron.xyz/assets/images/posts/b3.png "Robot Control Ergonomics")
 
