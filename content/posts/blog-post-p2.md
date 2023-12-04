@@ -25,9 +25,9 @@ Searching the web, collecting a list of news articles and taking notes during ou
 
 Among our top three problems identified, were back-pain experienced from bad posture, improving humain-UAV control ergonomics/reliability and remote-area surveillance for search and rescue operations. From these three options, we would need dive even deeper, and create industry connections to expand our technical background into each of these subjects, before moving forward.
 
-![b1](..assets/images/posts/b1.png "Posture Corrector")
+![b1](https://posturemax.uwtron.xyz/assets/images/posts/b1.png "Posture Corrector")
 
-![b2](../assets/images/posts/b2.png "Remote Area Surveillance")
+![b2](https://posturemax.uwtron.xyz/assets/images/posts/b2.png "Remote Area Surveillance")
 
-![b3](../assets/images/posts/b3.png "Robot Control Ergonomics")
+![b3](https://posturemax.uwtron.xyz/assets/images/posts/b3.png "Robot Control Ergonomics")
 

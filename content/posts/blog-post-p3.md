@@ -13,7 +13,7 @@ categories: Blog
 tags: Blog
 ---
 ## Understanding the core issue with bad posture...
-#### Posted 2023-09-19 | Previous Post: [Searching for Problems...](https://posturemax.uwtron.xyz/posts/problem_search/ "Second blog post, details the process used for finding our project goals") | Next Post: [Presenting our PDP and Gauging Peer Feedback](https://posturemax.uwtron.xyz/posts/pdp_and_peer_feedback/ "Fourth blog post, shows our PDP slides and we discuss peer feedback")
+#### Posted 2023-10-03 | Previous Post: [Searching for Problems...](https://posturemax.uwtron.xyz/posts/problem_search/ "Second blog post, details the process used for finding our project goals") | Next Post: [Presenting our PDP and Gauging Peer Feedback](https://posturemax.uwtron.xyz/posts/pdp_and_peer_feedback/ "Fourth blog post, shows our PDP slides and we discuss peer feedback")
 
 With a team member personally affected by back pain, we had the opportunity to speak and discuss openly with a professional, it truly changed the direction of our project, and solidified our focus.
 
@@ -31,4 +31,4 @@ With this in mind, we set forth with our new inspiration, and **PostureMax** was
 
 We managed to extablish our initial set of specifications/constraints, and criteria, which would help up finally begin to refine our problem and potiential solutions:
 
-![c4](../assets/images/posts/c4.png "Specs/Constraints & Criteria")
+![c4](https://posturemax.uwtron.xyz/assets/images/posts/c4.png "Specs/Constraints & Criteria")
