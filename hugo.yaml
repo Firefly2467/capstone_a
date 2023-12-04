@@ -47,8 +47,8 @@ markup:
 
 params:
   author: PostureMax Team
-  authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
+  authorimage: ../assets/images/global/logo.png
+  og_image: /images/posturemax-cover.png
   moto: "Improving Posture, to the Max"
   description: "Aiming to improve productivity and prevent backpain for workers"
   disable_theme_toggle: false
@@ -84,9 +84,9 @@ params:
   #    - identifier: e
   #    - identifier: f
   p4:
-    heading: "From the blog"
+    heading: "Latest from the blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Blog posts, ready to read!"
   #p5:
   #  heading: "Stay Up to Date"
   #  content:
