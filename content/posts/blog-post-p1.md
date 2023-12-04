@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 slug: forming_the_team
-cover: ../../../static/media/blog/snapshot.jpg
-featured_image: ../assets/images/featured/featured-img-placeholder.png
+featured_image: ../assets/images/posts/WaterlooEngineering7Building.jpg
 title: Forming the team!
 date: 2023-09-12T22:45:00.000Z
 description: First blog post, and team formation
