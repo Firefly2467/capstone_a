@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-slug: newtest2
+slug: forming_the_team
 cover: ../../../static/media/blog/snapshot.jpg
-title: newtest2
+title: Forming the team!
 date: 2023-09-19T06:30:05.142Z
-description: test
+description: First blog post, and team formation
 draft: false
 ---
 test test
