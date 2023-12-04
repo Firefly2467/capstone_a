@@ -111,19 +111,19 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 20
+    #- identifier: about
+    #  name: About
+    #  url: /about/
+    #  weight: 20
     - identifier: blog
       name: Blog
       url: /blog/
       weight: 20
   footer:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 10
+    #- identifier: about
+    #  name: About
+    #  url: /about/
+    #  weight: 10
     - identifier: blog
       name: Blog
       url: /blog/

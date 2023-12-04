@@ -13,4 +13,4 @@ tags: Blog
 ---
 test test
 
-{{ .Date }}
+s
