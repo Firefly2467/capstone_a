@@ -13,7 +13,7 @@ categories: Blog
 tags: Blog
 ---
 ## How to find problems? It's not easy!
-#### Posted 2023-09-19 | Previous Post: [Forming the team!](https://posturemax.uwtron.xyz/posts/forming_the_team/ "First blog post, and team formation") | Next Post: [Evaluating Expert Feedback and Market Solutions](https://posturemax.uwtron.xyz/posts/market_and_expert/ "Thrid blog post, we discuss key aspects of our problem with an expert and evaluate existing products")
+#### Posted 2023-09-19 | Previous Post: [Forming the team!](https://posturemax.uwtron.xyz/posts/forming_the_team/ "First blog post, and team formation") | Next Post: [Evaluating Expert Feedback and Market Solutions](https://posturemax.uwtron.xyz/posts/market_and_expert/ "Third blog post, we discuss key aspects of our problem with an expert and evaluate existing products")
 
 Every project starts with a planning phase, and engineering design is no different. Often the way we structure brainstorming sessions has a large influence in the ideas that we generate, therefore keeping true to form was key in making sure we found success.
 
