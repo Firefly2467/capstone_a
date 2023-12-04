@@ -52,7 +52,7 @@ params:
   moto: "Improving Posture, to the Max"
   description: "Aiming to improve productivity and prevent backpain for workers"
   disable_theme_toggle: false
-  disable_stay_uptodate: false
+  disable_stay_uptodate: true
 
   p1:
     heading: "The mission"
