@@ -24,7 +24,7 @@ Simple and bulky designs were drawn up quickly by hand to determine the mecahnic
 
 But quickly developed into CAD drawings so that the team could get a feeling for the real-world dimensions of the device, an important factor for how the camera will be mounted and where it would sit on a desk compared to the user. It was determined that possibly a vertical-tilt might be needed based on the initial dimensions, and thus, a small servo was added temporarily into the first revision of the design such that it could be evaluated and removed later if no longer needed.
 
-![e7](https://posturemax.uwtron.xyz/assets/images/posts/e7.png "Initial CAD design")
+![e8](https://posturemax.uwtron.xyz/assets/images/posts/e8.png "Initial CAD design")
 
 ![e4](https://posturemax.uwtron.xyz/assets/images/posts/e4.png "Calculated Real-World dimensions")
 
