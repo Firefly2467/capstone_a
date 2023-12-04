@@ -1,9 +1,8 @@
 ---
-title: "blog"
-date: 2023-12-02T06:30:05.142Z
-draft: false
+title: "Blog"
+date: 2023-09-01T06:30:05.142Z
 language: en
-description: blog
+description: Blog
 featured_image: ../assets/images/featured/blog_m.png
 ---
 
