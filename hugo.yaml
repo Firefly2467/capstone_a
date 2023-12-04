@@ -58,8 +58,9 @@ params:
     heading: "The mission"
     image: "images/pages/image2.png"
     content:
-      - text: "Sitting for a long time is a problem ..."
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+      - text: "Picture this: You’re working away at your desk job for many years, and one day, may not be today, tomorrow, or even this year, but one day…"
+      - text: "You’re unable to reach in certain directions; It hurts to bend over and pick up your pen; Constant surges of pain arise when just sitting or standing for too long; Find it hard to focus on your work"
+      - text: "Prolonged sitting leads to bad posture, that increases stress on your neck, back, arms and legs, with increased pressure on your spinal discs and back muscles!"
   #  heading: "Just in time for Hacktoberfest with JIT Tailwind."
   #  image: "images/pages/hacktoberfest.jpg"
   #  content:
