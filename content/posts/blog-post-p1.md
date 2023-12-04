@@ -8,7 +8,7 @@ description: First blog post, and team formation
 draft: false
 language: en
 author: PostureMax Team
-authorimage: ../assets/images/global/logo3.png
+authorimage: ../assets/images/global/logo4.png
 categories: Blog
 tags: Blog
 ---
