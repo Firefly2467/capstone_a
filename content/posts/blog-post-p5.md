@@ -7,10 +7,10 @@ description: Fifth blog post, details our progress towards refining our proof of
 draft: false
 language: en
 author: PostureMax Team
-authorimage: ../assets/images/global/logo3.png
+authorimage: ../assets/images/global/logo4.png
 categories: Blog
 tags: Blog
 ---
 test test
 
-{{{ .date }}}}
+{{ .Date }}
