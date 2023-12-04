@@ -13,7 +13,7 @@ categories: Blog
 tags: Blog
 ---
 ## Initial design concepts and peer feedback 
-#### Posted 2023-10-30 | Previous Post: [Evaluating Expert Feedback and Market Solutions](https://posturemax.uwtron.xyz/posts/market_and_expert/ "Third blog post, we discuss key aspects of our problem with an expert and evaluate existing products") | Next Post: [Next Steps in Desiging our Proof of Concept](https://posturemax.uwtron.xyz/posts/design_process_next_steps/ "Fifth blog post, details our progress towards refining our proof of concept")
+#### Posted 2023-10-30 | Previous Post: [Evaluating Expert Feedback and Market Solutions](https://posturemax.uwtron.xyz/posts/market_and_expert/ "Third blog post, we discuss key aspects of our problem with an expert and evaluate existing products") | Next Post: [Next Steps in Designing our Proof of Concept](https://posturemax.uwtron.xyz/posts/design_process_next_steps/ "Fifth blog post, details our progress towards refining our proof of concept")
 
 The team evaluated existing products on the market, and other innovative designs from other product categories to gain insight into what prospective users might find intruisive and could easily be integrated in their daily routines.
 
@@ -38,6 +38,8 @@ For a third concept, a two part on-body sensor vest was considered, where the "s
 Similar products on the market, suggested that the third concept might have issues with tracking accuracy and might discourage users from using it due to how instrusive it is to put on and use. The second concept could possibly create more accurate data for spine position, but would introduce issues with having to charge or power the chair pad. Many similar points were discussed between the team, and a design selection matrix demonstrates well the various aspects considered, as we moved to select a single design.
 
 ![d5](https://posturemax.uwtron.xyz/assets/images/posts/d5.png "Selection Matrix")
+
+As such, the first concept was chosen for further evaluation and prototyping. Many aspects of teh design would need to be evaluated, and changes made even before the first component is purchased.
 
 After presenting our progress to our peers, we recieved generally positive feedback regarding the **PostureMax** vision and our progress. Some were honest with their feedback that they weren't convinced of the importance of the selected problem, and this is understandable considering internally within the team it was a gradual process towards building an understanding of the core issue. It is hard to convince someone that doesn't have back pain now, that it is worth being careful how our actions today can result in back pain in the future. Unlike exercise or brushing our teeth, most people are accustomed to not building daily routines that encourage good posture health. In work environments where accute back injuries are common, many protocols and tools are used to keep workers from injuring and developing back issues, but this is not often the case for workers that spend a prolonged time sitting.
 
