@@ -39,7 +39,7 @@
                             {{ with .Params.authorimage }}
                             {{ with resources.Get . }}
                             {{ $authorimage := (.Resize "40x webp").RelPermalink }}
-                            <img class="w-10 h-10 rounded-full bg-gray-900" src="{{ $authorimage }}" alt="">
+                            <img class="w-10 h-10 rounded-full" src="{{ $authorimage }}" alt="" style="background-color:grey;">>
                             {{ end }}
                             {{ end }}
                         </div>
