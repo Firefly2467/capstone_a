@@ -17,11 +17,11 @@ tags: Blog
 
 With a team member personally affected by back pain, we had the opportunity to speak and discuss openly with a professional, it truly changed the direction of our project, and solidified our focus.
 
-> “Sedentary behaviour is a precursor to lower back pain, which has unfortunately become a silent epidemic in our society.” - Zawar Zahid, Physiotherapy Industry Expert
+> Sedentary behaviour is a precursor to lower back pain, which has unfortunately become a silent epidemic in our society. - Zawar Zahid, Physiotherapy Industry Expert
 
 Discussions with domain experts helped underline the mistakes and misconceptions the team had with the link between posture and back pain. Most popular and casual discussion around posture tends to focus on "bad posture" and "good posture", and much energy is spent on developing the "ideal posture" or the "ideal ergonomics", and while important concepts individually, many overlook that simply keeping any position for too long has adverse effects. 
 
-> "Your best posture, is your next posture"
+> Your best posture, is your next posture
 
 Staying in any postion for too long will place undue stress on specific areas of the spine. Simply encouraging movement, allowing the spine to reconfigure, redistribute the stress periodically can go a long way in improving posture and reducing back pain. Much in the same way humans tend to blink less when watching an illuminated screen, when we sit and are working we can often hold the same position for extended periods of time without properly readjusting our back!
 
