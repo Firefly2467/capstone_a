@@ -9,8 +9,8 @@ featured_image: ../assets/images/featured/featured-img-placeholder.png
 
 ## Quick Links to Blog Posts
 
-[test](https://posturemax.uwtron.xyz/posts/forming_the_team/ "title test!")
-[test2](https://posturemax.uwtron.xyz/posts/problem_search/ "title2 test!")
-[test3](https://posturemax.uwtron.xyz/posts/market_and_expert/ "title3 test!")
-[test4](https://posturemax.uwtron.xyz/posts/pdp_and_peer_feedback/ "title4 test!")
-[test5](https://posturemax.uwtron.xyz/posts/design_process_next_steps/ "title5 test!")
+- [Forming the team!](https://posturemax.uwtron.xyz/posts/forming_the_team/ "First blog post, and team formation")
+- [Searching for Problems...](https://posturemax.uwtron.xyz/posts/problem_search/ "Second blog post, details the process used for finding our project goals")
+- [Evaluating Expert Feedback and Market Solutions](https://posturemax.uwtron.xyz/posts/market_and_expert/ "Thrid blog post, we discuss key aspects of our problem with an expert and evaluate existing products")
+- [Presenting our PDP and Gauging Peer Feedback](https://posturemax.uwtron.xyz/posts/pdp_and_peer_feedback/ "Fourth blog post, shows our PDP slides and we discuss peer feedback")
+- [Next Steps in Desiging our Proof of Concept](https://posturemax.uwtron.xyz/posts/design_process_next_steps/ "Fifth blog post, details our progress towards refining our proof of concept")
