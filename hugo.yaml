@@ -119,6 +119,10 @@ menu:
       name: Blog
       url: /blog/
       weight: 20
+    - identifier: blog482
+      name: Blog-482
+      url: https://posturemaxblog.uwtron.xyz/blog482
+      weight: 20
   footer:
     #- identifier: about
     #  name: About
