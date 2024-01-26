@@ -82,7 +82,7 @@ params:
   #    - identifier: e
   #    - identifier: f
   p4:
-    heading: "Latest from the blog"
+    heading: "Latest from the MTE 481 blog"
     content:
       - text: "Blog posts, ready to read!"
   #p5:
@@ -115,23 +115,27 @@ menu:
     #  name: About
     #  url: /about/
     #  weight: 20
-    - identifier: blog
-      name: Blog
+    - identifier: blog481
+      name: Blog-481
       url: /blog/
       weight: 20
     - identifier: blog482
       name: Blog-482
       url: https://posturemaxblog.uwtron.xyz/blog482
-      weight: 20
+      weight: 21
   footer:
     #- identifier: about
     #  name: About
     #  url: /about/
     #  weight: 10
-    - identifier: blog
-      name: Blog
+    - identifier: blog481
+      name: Blog-481
       url: /blog/
       weight: 20
+    - identifier: blog482
+      name: Blog-482
+      url: https://posturemaxblog.uwtron.xyz/blog482
+      weight: 21
 
 markup:
   goldmark:
